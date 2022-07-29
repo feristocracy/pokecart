@@ -1,0 +1,38 @@
+[
+{
+    "precio":1500,
+    "id":1,
+    "nombre": "Pikachu",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+},
+{
+    "precio":2000,
+    "id":2,
+    "nombre": "Mew",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+},
+{
+    "precio":800,
+    "id":3,
+    "nombre": "Venusaur",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+},
+{
+    "precio":3500,
+    "id":4,
+    "nombre": "Mewtwo",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+},
+{
+    "precio":1900,
+    "id":5,
+    "nombre": "Charizard",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+},
+{
+    "precio":2700,
+    "id":6,
+    "nombre": "Squirtle",
+    "thumbnailUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+}
+]
